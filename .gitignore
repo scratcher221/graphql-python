@@ -1,4 +1,5 @@
- /venv/
- /hackernews/hackernews/__pycache__/
- /hackernews/links/__pycache__/
- /hackernews/users/__pycache__/
+venv/
+hackernews/hackernews/__pycache__/
+hackernews/links/__pycache__/
+hackernews/users/__pycache__/
+hackernews/links/migrations/__pycache__/
